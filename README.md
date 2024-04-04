@@ -21,7 +21,8 @@ In this notebook, Data Science Tools and Ecosystem are summarized.
 2. **Pandas**: powerful library for data manipulation and analysis
 3. **Matplotlib**: a plotting library that produces high-quality visualizations in Python
 
-4. |Data Science Tools |
+
+|Data Science Tools |
 | ------ |
 | Rstudio |
 |Visual Code |
