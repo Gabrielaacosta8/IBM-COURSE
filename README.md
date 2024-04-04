@@ -29,6 +29,7 @@ In this notebook, Data Science Tools and Ecosystem are summarized.
 
 ### Below are a few examples of evaluating arithmetic expressions in Python
 (3*4)+5
+
 This a simple arithmetic expression to mutiply then add integers
 
 This will convert 200 minutes to hours by diving by 60
